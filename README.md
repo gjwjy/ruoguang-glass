@@ -32,7 +32,7 @@
 | `module/META-INF/xposed/` | LSPosed 原生模块描述文件（`module.prop` / `native_init.list` / `scope.list`） |
 | `AndroidManifest.xml` | 模块清单 |
 | `build.sh` | 打包脚本（aapt2 → zip -0 存储 so → zipalign -P 16 → apksigner） |
-| `release/` | 可安装产物 |
+| `release/` | 可安装产物 `ruoguang-glass-1.0.apk`（1.0 正式版） |
 
 ## 构建
 

@@ -1,4 +1,4 @@
-package dev.hyperglass.lsposed;
+package com.haotian.glass;
 
 import android.app.Activity;
 import android.content.Intent;
