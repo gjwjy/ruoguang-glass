@@ -13,6 +13,10 @@
 - 保留原版彩色图标 / 圆环 / 图片饱和度
 - 文字白色
 
+## 界面
+
+模块自带说明页（启动图标「柔光玻璃」）：使用步骤、效果说明、签名指纹，以及一键打开本仓库。源码见 `app/InfoActivity.java`。
+
 ## 安装
 
 1. 手机已 root + KernelSU/Magisk + LSPosed（需支持 HyperOS Runtime 原生模块）
