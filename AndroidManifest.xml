@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.haotian.glass" android:versionCode="1" android:versionName="2.0.0">
+  <uses-sdk android:minSdkVersion="35" android:targetSdkVersion="37"/>
+  <application android:label="柔光玻璃" android:hasCode="false" android:allowBackup="false" android:extractNativeLibs="false"/>
+</manifest>
